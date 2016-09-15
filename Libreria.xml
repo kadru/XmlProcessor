@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CatLibros>
+  <Libro ISBN="12345">
+    <Autor>Oscar Rocha</Autor>
+    <Titulo>Inteligencia de Negocios</Titulo>
+    <Editorial>McGraw-Hill</Editorial>
+    <Precio>120.00</Precio>
+  </Libro>
+  <Libro ISBN="56789">
+    <Autor>Julio Meza</Autor>
+    <Titulo>Redes Sociales</Titulo>
+    <Editorial>McGraw-Hill</Editorial>
+    <Precio>220.00</Precio>
+  </Libro>
+  <Libro ISBN="54321">
+    <Autor>Mario Fuentes</Autor>
+    <Titulo>Tecnologias Emergentes</Titulo>
+    <Editorial>Pearson</Editorial>
+    <Precio>320.00</Precio>
+  </Libro>
+  <Libro ISBN="13579">
+    <Autor>Ana Arteaga</Autor>
+    <Titulo>Administracion de TI</Titulo>
+    <Editorial>Pearson</Editorial>
+    <Precio>260.00</Precio>
+  </Libro>
+</CatLibros>
